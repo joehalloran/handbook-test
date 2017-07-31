@@ -32,16 +32,16 @@
 
 ### SDLC
 
-  1. [Introduction](year-one/system-development-lifecycle/01-introduction.md)
-  1. [Phases of SDLC](year-one/system-development-lifecycle/02-phases-of-sdlc.md)
-  1. [Waterrfall](year-one/system-development-lifecycle/03-waterfall.md)
-  1. [Agile](year-one/system-development-lifecycle/04-agile.md)
-  1. [Scrum](year-one/system-development-lifecycle/05-scrum.md)
-  1. [Prototyping](year-one/system-development-lifecycle/06-prototyping.md)
-  1. [Testing](year-one/system-development-lifecycle/07-testing.md)
-  1. [Security](year-one/system-development-lifecycle/08-security.md)
-  1. [Object oriented analysis and design](year-one/system-development-lifecycle/09-OO-analysis-and-design.md) 
-  1. [Maintenance](year-one/system-development-lifecycle/10-maintenance.md)
+  1. [Introduction](year-one/system-development-life-cycle/01-introduction.md)
+  1. [Phases of SDLC](year-one/system-development-life-cycle/02-phases-of-sdlc.md)
+  1. [Waterrfall](year-one/system-development-life-cycle/03-waterfall.md)
+  1. [Agile](year-one/system-development-life-cycle/04-agile.md)
+  1. [Scrum](year-one/system-development-life-cycle/05-scrum.md)
+  1. [Prototyping](year-one/system-development-life-cycle/06-prototyping.md)
+  1. [Testing](year-one/system-development-life-cycle/07-testing.md)
+  1. [Security](year-one/system-development-life-cycle/08-security.md)
+  1. [Object oriented analysis and design](year-one/system-development-life-cycle/09-OO-analysis-and-design.md) 
+  1. [Maintenance](year-one/system-development-life-cycle/10-maintenance.md)
 
 ### Database Systems
 
